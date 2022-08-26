@@ -1,0 +1,52 @@
+========== HEADER ==========
+.nav__logo
+nft.io
+
+.nav__link 
+Home
+
+Market
+
+Activity
+
+Community
+
+
+========== HOME ==========
+.home__title
+<span>Discover</span> <br>                    
+Collect, and <br>
+sell NFTs.
+
+.home__description
+Explore on the world best largest NFT marketplace.
+
+.home__button
+EXPLORE
+
+.home__data-number | .home__data-subtitle
+26K+
+Artwork
+
+18K
+Auction
+
+8K
+Artist
+
+.home__footer-title | .home__footer-number | .home__footer-subtitle
+Current bid
+2.00 ETH
+$8046.86
+
+Auction ending in
+
+06
+hours
+
+26
+minutes
+
+50
+seconds
+
